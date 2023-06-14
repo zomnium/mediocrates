@@ -1,0 +1,2 @@
+# mediocrates
+Eh, good enough.
