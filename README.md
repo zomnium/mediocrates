@@ -1,2 +1,3 @@
 # mediocrates
-Eh, good enough.
+
+The perfect linting configuration. Eh, good enough.
